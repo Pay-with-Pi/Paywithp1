@@ -266,3 +266,7 @@ CORS config: configured to respond to a frontend hosted on http://localhost:3314
 
 ---
 You've completed the backend setup, return to [`doc/development.md`](../doc/deployment.md) to finish setting up the Pay with Pi app
+NODE_ENV: development
+Connected to MongoDB on:  mongodb://localhost:27017/demoapp-development
+App platform demo app - Backend listening on port 8000!
+CORS config: configured to respond to a frontend hosted on http://localhost:3314
